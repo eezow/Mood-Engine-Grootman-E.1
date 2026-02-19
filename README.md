@@ -108,6 +108,21 @@ curl http://127.0.0.1:8000/state
 <img width="1094" height="151" alt="image" src="https://github.com/user-attachments/assets/65182774-d7e4-4072-b517-63c1c574f282" />
 
 
+Next STEP is to package Grootman into Docker
+
+sudo docker build -t grootman_e:1 -f grootman_e.1 .
+
+<img width="680" height="258" alt="image" src="https://github.com/user-attachments/assets/79c44d00-4d7d-4725-8cf2-4b88197f51f8" />
+
+
+<img width="931" height="460" alt="image" src="https://github.com/user-attachments/assets/37f9f9e5-04ba-489e-a227-42f89ac5bbb0" />
+
+run  : sudo docker run -p 8000:8000 grootman_e:1
+
+<img width="716" height="214" alt="image" src="https://github.com/user-attachments/assets/aa905c09-d349-4bbe-a58c-5249d1303328" />
+
+
+
 
 
 
