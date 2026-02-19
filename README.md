@@ -69,3 +69,31 @@ uvicorn
 redis
 
 pydantic
+
+
+
+Environment Setup
+
+python3 -m venv venv
+source venv/bin/activate
+pip install fastapi uvicorn redis pydantic
+
+If pip is missing:
+
+python3 -m ensurepip --upgrade
+
+We use python3 -m uvicorn to avoid PATH issues.
+
+🚀 What I Expect Next
+When it runs successfully you should see:
+Uvicorn running on http://127.0.0.1:8000
+
+<img width="805" height="190" alt="image" src="https://github.com/user-attachments/assets/52a9b7d5-52a9-478a-aead-2be3ef2ea2d5" />
+
+Then test:
+curl -X POST http://127.0.0.1:8000/event/cluster_error
+curl http://127.0.0.1:8000/state
+
+<img width="1094" height="151" alt="image" src="https://github.com/user-attachments/assets/65182774-d7e4-4072-b517-63c1c574f282" />
+
+
