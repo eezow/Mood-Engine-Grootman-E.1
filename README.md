@@ -12,6 +12,12 @@ Phase 2 – Hardware Shell
 
 Phase 3 – Mood Detection
 
+## Features
+- Event-based mood transitions
+- Time-based decay
+- Dominant mood detection
+- Dockerized deployment
+
 
 Tools
 
