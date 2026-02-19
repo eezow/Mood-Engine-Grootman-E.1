@@ -1,6 +1,9 @@
 # Mood-Engine
 
-Well Look , this is Dream Hobby Project from from a Nerdy kid (ME) in south africa , im obsessed about Robotics and it doesnt Seem like South Africa is in to that kind of thing so i want to be one of the first ones to build a responsive and some what useful robot .. so this is about building a Mood Responsive Robot , well give it a name later..for now lets assume its called Grootman E.1. 
+Well Look , this is a Dream Hobby Project from from a Nerdy kid (ME) in south africa , im obsessed about Robotics and it doesnt Seem like South Africa is in to that kind of thing so i want to be one of the first ones to build a responsive and some what useful robot .. so this is about building a Mood Responsive Robot , well give it a name later..for now lets assume its called Grootman E.1. 
+
+FEEL FREE TO CONTRIBUTE BUT ALWAYS CREDIT THE ORIGINAL CREATOR : CALEB LINDANI MATHEBULA ( ME ! ) - LETS  BUILD!
+
 This Project will be built in 3  phases.
 
 Phase 1 – The Brain
@@ -103,5 +106,8 @@ curl -X POST http://127.0.0.1:8000/event/cluster_error
 curl http://127.0.0.1:8000/state
 
 <img width="1094" height="151" alt="image" src="https://github.com/user-attachments/assets/65182774-d7e4-4072-b517-63c1c574f282" />
+
+
+
 
 
