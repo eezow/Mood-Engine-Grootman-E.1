@@ -4,9 +4,13 @@ Well Look , this is hobby from from a Nerdy kid (ME) in south africa , im obsess
 
 Tools
 Python 3.11+
+
 FastAPI
+
 Redis
+
 Uvicorn
+
 Docker
 
 Minimal Robot – Phase 1: Mood Engine Core
