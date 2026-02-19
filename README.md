@@ -4,7 +4,9 @@ Well Look , this is hobby from from a Nerdy kid (ME) in south africa , im obsess
 This Project will be built in 3  phases.
 
 Phase 1 – The Brain
+
 Phase 2 – Hardware Shell
+
 Phase 3 – Mood Detection
 
 
