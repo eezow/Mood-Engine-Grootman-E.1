@@ -151,6 +151,11 @@ wITH mOOD pERSISTENCE
 <img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/e1fe6714-74fc-43db-86f2-3ca1b11b18ed" />
 
 
+Now i let stressed mood dominate and OBSERVE How overtime the robot self regulates its mood back to calm ..ofcourse you would have to wait longer for a full calm state ..
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/509001c0-c31b-42f6-b246-4a02204cacee" />
+
+
 
 
 
