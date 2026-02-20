@@ -146,5 +146,13 @@ So container restarts don’t reset personality
 
 And multiple instances can share the same emotional brain
 
+wITH mOOD pERSISTENCE
+
+<img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/e1fe6714-74fc-43db-86f2-3ca1b11b18ed" />
+
+
+
+
+
 
 
