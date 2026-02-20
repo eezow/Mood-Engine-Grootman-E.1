@@ -111,6 +111,9 @@ Uvicorn running on http://127.0.0.1:8000
 
 Then test:
 curl -X POST http://127.0.0.1:8000/event/cluster_error
+
+the get state
+ 
 curl http://127.0.0.1:8000/state
 
 <img width="1094" height="151" alt="image" src="https://github.com/user-attachments/assets/65182774-d7e4-4072-b517-63c1c574f282" />
