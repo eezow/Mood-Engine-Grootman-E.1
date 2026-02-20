@@ -135,5 +135,16 @@ run  : sudo docker run -p 8000:8000 grootman_e:1
 
 
 
+Up till now - Grootman works but if the container shutsdown - the mood is reset ...well thats not realistic so how can we persist their Mood ??
+
+
+We add: Redis persistence So mood survives container restart ? HOW ?
+
+Store mood state in Redis
+
+So container restarts don’t reset personality
+
+And multiple instances can share the same emotional brain
+
 
 
