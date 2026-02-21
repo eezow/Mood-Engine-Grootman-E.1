@@ -9,10 +9,11 @@ FEEL FREE TO CONTRIBUTE BUT ALWAYS CREDIT THE ORIGINAL CREATOR: CALEB LINDANI MA
 This Project will be built in 3  phases.
 
 Phase 1 – The Brain
-![Uploading Grootman E.1 Blueprint.png…]()
+
 
 Phase 2 – Hardware Shell
 
+![Uploading blueprint.png…]()
 
 
 Phase 3 – Mood Detection
