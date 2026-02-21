@@ -1,4 +1,4 @@
-<img width="1024" height="1408" alt="ChatGPT Image Feb 21, 2026, 03_10_45 PM" src="https://github.com/user-attachments/assets/0e1235bb-be02-499d-8d44-58d64c9f2030" /># Grootman E.1
+# Grootman E.1
 
 Well Look, this is a Dream Hobby Project from from a Nerdy kid (ME) in south africa, im obsessed about Robotics and it doesnt Seem like South Africa is in to that kind of thing so i want to be one of the first ones to build a responsive and some what useful robot .. so this is about building a Mood Responsive Robot, well give it a name later..for now lets assume its called Grootman E.1. 
 
