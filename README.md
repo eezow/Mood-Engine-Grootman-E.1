@@ -15,7 +15,6 @@ Phase 2 – Hardware Shell
 ![Uploading Grootman E.1 Blueprint.png…]()
 
 
-
 Phase 3 – Mood Detection
 
 ## Features
