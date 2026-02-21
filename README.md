@@ -13,8 +13,6 @@ Phase 1 – The Brain
 
 Phase 2 – Hardware Shell
 
-![Uploading blueprint.png…]()
-
 
 Phase 3 – Mood Detection
 
